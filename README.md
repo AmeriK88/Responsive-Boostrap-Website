@@ -1,8 +1,8 @@
-**# Página web responsiva con bootstrap:**
+# Página web responsiva con bootstrap:
 En este repositorio muestro un ejemplo de página básica con Bootstrap, compatible con múltiples dispositivos; escritorio, tablets y teléfonos mobiles.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**## A second-level heading:**
+## A second-level heading:
 1. Primero debemos crear una plantilla básica de html en nuestro editor de código, añadir los "links" para poder utilizar las librearías de Bootstrap:
 
 <!DOCTYPE html>
@@ -24,7 +24,7 @@ En este repositorio muestro un ejemplo de página básica con Bootstrap, compati
 </html>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**## Navegación:**
+## Navegación:
 2. Debemos añadir las clases de bootstrap correspondientes para darle estilo deseado:
    
 <nav class="navbar navbar-expandlg navbar-light bg-light fixed-top">
@@ -54,7 +54,7 @@ En este repositorio muestro un ejemplo de página básica con Bootstrap, compati
     </nav>
 
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    **## Galería - carousel:**
+    ## Galería - carousel:
     3. Ahora añadiremos una galería de imágenes al cuerpo del documento:
 
     <!--Añadimos el contenido - una galería de imágenes - con sus botones respectivos-->
@@ -111,7 +111,7 @@ En este repositorio muestro un ejemplo de página básica con Bootstrap, compati
 
         -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-        **## Sección envíos y devoluciones:**
+        ## Sección envíos y devoluciones:
         4. Debemos asegurar que hemos importado el link de iconos como mostrado en el paso nº 1 para poder visualizarlos:
 
         <section class="section-icons">
@@ -141,7 +141,7 @@ En este repositorio muestro un ejemplo de página básica con Bootstrap, compati
 
      -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-     **## Footer de página:**
+     ## Footer de página:
 
      5. Tu footer es una oportunidad para incluir enlaces internos a otras páginas web o partes de tu sitio y hacer la navegación sea más fácil en dispositivos móviles. 
 
