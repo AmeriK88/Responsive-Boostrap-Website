@@ -29,7 +29,7 @@ En este repositorio muestro un ejemplo de página básica con Bootstrap, compati
    
 <nav class="navbar navbar-expandlg navbar-light bg-light fixed-top">
         <div class="container">
-            <a href="#" class="navbar-brand"><span class="text-primary">Spanish</span>Motor</a>
+            <a href="#" class="navbar-brand"><span class="text-danger">PM</span>Motors</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
             data-bs-target="#navbar-start" aria-controls="navbar-start" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
